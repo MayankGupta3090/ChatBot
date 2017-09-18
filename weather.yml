@@ -1,0 +1,17 @@
+categories:
+- Weather
+conversations:
+- - What is the weather of Noida
+  - Weather
+- - What is the climate of Noida
+  - Weather
+- - What is the temperature of Noida
+  - Weather
+- - What is the minimum temperature of Noida
+  - Weather
+- - What is the maximum temperature of Noida
+  - Weather
+- - How much is the visibility in Noida
+  - Weather
+
+
